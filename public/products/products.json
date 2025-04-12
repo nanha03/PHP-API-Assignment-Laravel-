@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "id": "p1",
+            "name": "my update",
+            "description": "The Essence Mascara Lash Princess is a popular",
+            "price": "23.99",
+            "quantity": "1"
+        },
+        {
+            "id": "p2",
+            "name": "Essence Mascara Lash Princess",
+            "description": "The Essence Mascara Lash Princess is a popular",
+            "price": 4.99,
+            "quantity": 100
+        },
+        {
+            "id": "p3",
+            "name": "P3 Updated",
+            "description": "The Essence Mascara Lash Princess is a popular",
+            "price": 4.99,
+            "quantity": 100
+        },
+        {
+            "id": "p4",
+            "name": "Test",
+            "description": null,
+            "price": 21,
+            "quantity": 3
+        },
+        {
+            "id": "p5",
+            "name": "Test2",
+            "description": null,
+            "price": 21,
+            "quantity": 3
+        },
+        {
+            "id": "p6",
+            "name": "Test3",
+            "description": null,
+            "price": 21,
+            "quantity": 3
+        }
+    ]
+}
