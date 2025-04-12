@@ -2,7 +2,7 @@
     "products": [
         {
             "id": "p1",
-            "name": "my update",
+            "name": "apple",
             "description": "The Essence Mascara Lash Princess is a popular",
             "price": "23.99",
             "quantity": "1"
@@ -37,6 +37,13 @@
         },
         {
             "id": "p6",
+            "name": "Test3",
+            "description": null,
+            "price": 21,
+            "quantity": 3
+        },
+        {
+            "id": "p7",
             "name": "Test3",
             "description": null,
             "price": 21,
